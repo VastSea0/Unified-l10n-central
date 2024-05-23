@@ -27,13 +27,13 @@
 ## For further details, consult:
 ## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
 
--brand-shorter-name = Floorp
--brand-short-name = Floorp
--brand-shortcut-name = Floorp
+-brand-shorter-name = Hüma
+-brand-short-name = Hüma
+-brand-shortcut-name = Hüma
 
--brand-full-name = Ablaze Floorp
+-brand-full-name = Hüma web tarayıcısı
 # This brand name can be used in messages where the product name needs to
 # remain unchanged across different versions (Nightly, Beta, etc.).
--brand-product-name = Floorp
--vendor-short-name = Ablaze
-trademarkInfo = Floorp adı Ablaze Vakfı’nın tescilli markalarıdır.
+-brand-product-name = Hüma
+-vendor-short-name = Hüma
+trademarkInfo = Hüma Türk Mitolojisinde Bir Kuştur
